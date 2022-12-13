@@ -1,4 +1,9 @@
 @charset "UTF-8";
+/*index*/
+/*historia*/
+/*variedades*/
+/*carta*/
+/*contacto*/
 /*Inicio página principal*/
 /*desktop*/
 @media screen and (min-width: 481px) {
@@ -13,7 +18,7 @@
       text-align: center;
       font-size: 36px;
       font-style: normal;
-      font-family: 'Imbue', serif; }
+      font-family: "Imbue", serif; }
       .flex-container div a {
         text-decoration: none;
         color: #9F9B9B;
@@ -29,7 +34,7 @@
     .section-principal .caja-reseña {
       color: rgba(255, 255, 255, 0.579);
       font-size: 28px;
-      font-family: 'Imbue', serif;
+      font-family: "Imbue", serif;
       margin-top: 100px;
       border: 1px solid #cd6606;
       width: 50%;
@@ -39,7 +44,7 @@
       margin-top: 35px;
       color: #9F9B9B;
       font-size: 30px;
-      font-family: 'Imbue', serif; }
+      font-family: "Imbue", serif; }
       .section-principal .container-imag1 img {
         border-radius: 30px; }
       .section-principal .container-imag1 span {
@@ -70,7 +75,7 @@
     text-align: center;
     font-size: 36px;
     font-style: normal;
-    font-family: 'Imbue', serif; }
+    font-family: "Imbue", serif; }
     .flex-container a {
       text-decoration: none;
       color: #9F9B9B; }
@@ -94,7 +99,7 @@
     width: 400px;
     color: #d8961b;
     font-size: 36px;
-    font-family: 'Imbue', serif;
+    font-family: "Imbue", serif;
     position: absolute;
     left: 30px;
     top: 550px; }
@@ -114,7 +119,7 @@
     width: 100%; }
     .conteiner-title h1 {
       color: #F39A14;
-      font-family: 'Inknut Antiqua';
+      font-family: "Inknut Antiqua";
       font-size: 30px;
       border-bottom: 1px solid white; }
   .section1 {
@@ -159,7 +164,7 @@
     width: 100%; }
     .conteiner-title h1 {
       color: #F39A14;
-      font-family: 'Inknut Antiqua';
+      font-family: "Inknut Antiqua";
       font-size: 30px;
       border-bottom: 1px solid white; }
   .section1 {
@@ -217,14 +222,14 @@
       width: 100%; }
     .imag-variedad h3 {
       margin: 0px;
-      font-family: 'Inder', sans-serif;
+      font-family: "Inder", sans-serif;
       font-size: 33px;
       display: block;
       text-align: center;
       color: #F39A14;
       opacity: 0.5; }
     .imag-variedad p {
-      font-family: 'Inder', sans-serif;
+      font-family: "Inder", sans-serif;
       font-size: 20px;
       display: block;
       text-align: center;
@@ -256,7 +261,7 @@
       width: 100px; }
     .imag-variedad h3 {
       margin: 0px;
-      font-family: 'Inder', sans-serif;
+      font-family: "Inder", sans-serif;
       font-size: 33px;
       display: block;
       text-align: center;
@@ -397,7 +402,7 @@
       .form-contac div input {
         background: #D9D9D9;
         opacity: 0.5;
-        font-family: 'Inder';
+        font-family: "Inder";
         width: 220px;
         height: 30px;
         margin: auto;
@@ -407,12 +412,12 @@
       width: auto;
       background: #D9D9D9;
       opacity: 0.5;
-      font-family: 'Inder'; }
+      font-family: "Inder"; }
     .form-contac .enviar {
       width: 60px;
       background: #D9D9D9;
       opacity: 0.5;
-      font-family: 'Inder';
+      font-family: "Inder";
       grid-column: 2;
       justify-self: end;
       margin-top: 5px; }
@@ -466,12 +471,12 @@
       height: auto;
       justify-self: start; }
       .footer div p {
-        font-family: 'Inknut Antiqua';
+        font-family: "Inknut Antiqua";
         color: #F39A14;
         opacity: 0.5;
         font-size: 25px; }
       .footer div span {
-        font-family: 'Inknut Antiqua';
+        font-family: "Inknut Antiqua";
         font-size: 20px;
         color: #F39A14;
         opacity: 0.5;
@@ -504,7 +509,7 @@
       .form-contac div input {
         background: #D9D9D9;
         opacity: 0.5;
-        font-family: 'Inder';
+        font-family: "Inder";
         width: 220 px;
         height: 30px;
         margin: auto;
@@ -514,12 +519,12 @@
       height: 155px;
       background: #D9D9D9;
       opacity: 0.5;
-      font-family: 'Inder'; }
+      font-family: "Inder"; }
     .form-contac .enviar {
       width: 60px;
       background: #D9D9D9;
       opacity: 0.5;
-      font-family: 'Inder';
+      font-family: "Inder";
       justify-self: start;
       margin-top: 5px; }
   .grano-contac {
@@ -543,12 +548,12 @@
       height: auto;
       justify-self: start; }
     .footer p {
-      font-family: 'Inknut Antiqua';
+      font-family: "Inknut Antiqua";
       color: #F39A14;
       opacity: 0.5;
       font-size: 25px; }
     .footer span {
-      font-family: 'Inknut Antiqua';
+      font-family: "Inknut Antiqua";
       font-size: 20px;
       color: #F39A14;
       opacity: 0.5;
