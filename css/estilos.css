@@ -31,38 +31,39 @@
     display: flex;
     width: 100%;
     text-align: center; }
-    .section-principal .caja-reseña {
-      color: rgba(255, 255, 255, 0.579);
-      font-size: 28px;
-      font-family: "Imbue", serif;
-      margin-top: 100px;
-      border: 1px solid #cd6606;
-      width: 50%;
-      align-self: center; }
-    .section-principal .container-imag1 {
-      width: 50%;
-      margin-top: 35px;
-      color: #9F9B9B;
-      font-size: 30px;
-      font-family: "Imbue", serif; }
-      .section-principal .container-imag1 img {
-        border-radius: 30px; }
-      .section-principal .container-imag1 span {
-        display: block; }
-  .footer-principal {
-    display: flex;
-    width: 100%;
-    text-align: center; }
-    .footer-principal .text {
-      color: #d8961b;
-      width: 50%;
-      font-size: 36px;
-      font-family: 'Imbue', serif; }
-    .footer-principal .text-white {
-      color: white; }
-    .footer-principal .redes-principal {
-      margin: auto;
-      width: 50%; } }
+  .caja-reseña {
+    color: rgba(255, 255, 255, 0.579);
+    font-size: 28px;
+    font-family: "Imbue", serif;
+    margin-top: 100px;
+    border: 1px solid #cd6606;
+    width: 50%;
+    align-self: center; }
+  .container-imag1 {
+    width: 50%;
+    margin-top: 35px;
+    color: #9F9B9B;
+    font-size: 30px;
+    font-family: "Imbue", serif; }
+    .container-imag1 img {
+      border-radius: 30px; }
+    .container-imag1 span {
+      display: block; } }
+
+.footer-principal {
+  display: flex;
+  width: 100%;
+  text-align: center; }
+  .footer-principal .text {
+    color: #d8961b;
+    width: 50%;
+    font-size: 36px;
+    font-family: 'Imbue', serif; }
+  .footer-principal .text-white {
+    color: white; }
+  .footer-principal .redes-principal {
+    margin: auto;
+    width: 50%; }
 
 /*mobile*/
 @media screen and (max-width: 480px) {
@@ -124,9 +125,9 @@
       border-bottom: 1px solid white; }
   .section1 {
     display: flex;
-    background-color: black;
     width: 100%;
-    text-align: center; }
+    text-align: center;
+    background-color: black; }
     .section1 .reseña {
       width: 50%;
       border-radius: 68px;
@@ -169,9 +170,9 @@
       border-bottom: 1px solid white; }
   .section1 {
     display: flex;
-    background-color: black;
     width: 100%;
-    text-align: center; }
+    text-align: center;
+    background-color: black; }
     .section1 .reseña {
       display: none; }
   .imag-historia {
@@ -200,8 +201,8 @@
   .header-variedades {
     display: flex;
     width: 100%;
-    margin: 0 auto;
-    text-align: center; }
+    text-align: center;
+    margin: 0 auto; }
     .header-variedades .grano {
       width: 30%;
       align-self: center; }
